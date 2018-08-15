@@ -1,0 +1,23 @@
+{
+	"original-purchase-date-pst" = "2018-08-15 00:28:36 America/Los_Angeles";
+	"is-in-intro-offer-period" = "false";
+	"purchase-date-ms" = "1534319015000";
+	"unique-identifier" = "52a81231184dbbe3a05c1d30dc1e0ec234b99a0a";
+	"original-transaction-id" = "1000000431295630";
+	"expires-date" = "1534319315000";
+	"transaction-id" = "1000000431304212";
+	"quantity" = "1";
+	"web-order-line-item-id" = "1000000039925287";
+	"original-purchase-date-ms" = "1534318116000";
+	"unique-vendor-identifier" = "0B566BA7-5B8E-4FB6-BE17-E96CB4AF4738";
+	"expires-date-formatted-pst" = "2018-08-15 00:48:35 America/Los_Angeles";
+	"item-id" = "1426277309";
+	"expires-date-formatted" = "2018-08-15 07:48:35 Etc/GMT";
+	"original-purchase-date" = "2018-08-15 07:28:36 Etc/GMT";
+	"product-id" = "com.zs.dreamingdash64";
+	"purchase-date" = "2018-08-15 07:43:35 Etc/GMT";
+	"is-trial-period" = "false";
+	"purchase-date-pst" = "2018-08-15 00:43:35 America/Los_Angeles";
+	"bid" = "com.zs.DreamingDash";
+	"bvrs" = "0";
+}
